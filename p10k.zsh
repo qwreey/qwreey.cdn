@@ -51,7 +51,7 @@
   )
 
   function prompt_device_name() {
-    p10k segment -b 2 -f '219' -t "%BPC"
+    p10k segment -b 2 -f '219' -t "%BDEVICENAMEHERE"
   }
 
   # The list of segments shown on the right. Fill it with less important segments.
